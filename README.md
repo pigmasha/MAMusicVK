@@ -1,5 +1,7 @@
 # MAMusicVK
-VK music player
+iOS VK music player
+* iOS 5.0 - 8.2 support
+* for iPhones & iPads
 
 Simple program for search and listen music from vk.com
 Use can also create your own playlists
