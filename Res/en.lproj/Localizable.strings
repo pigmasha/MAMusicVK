@@ -1,0 +1,35 @@
+"OK" = "OK";
+"Close" = "Close";
+"Error" = "Error";
+
+"S_Title" = "Settings";
+"S_UseL" = "Use playlists";
+"S_Sq" = "Play in sequence";
+"S_SqB" = "Play next song after current song ends";
+"S_About" = "About";
+"S_Date" = "Date";
+"S_Ver" = "Version";
+"S_Name" = "Name";
+
+"V_Title" = "Music VK";
+"V_VKLogin" = "Please login to use program";
+"V_VKLoginBt" = "Login";
+
+"L_Title" = "My Lists";
+"L_Name" = "List Name";
+"L_History" = "Lists";
+"L_Tr0" = "%d tracks";
+"L_Tr1" = "%d track";
+"L_Tr21" = "%d tracks";
+"L_Tr2" = "%d tracks";
+"L_New" = "New playlist";
+
+"P_Prog" = "%d:%02d from %d:%02d";
+
+"Add_Title" = "New list";
+"Add_Holder" = "List name";
+"Add_Name" = "My playlist";
+
+"Err_Conn" = "Please check your Internet connection";
+"Err_Ver" = "This program version is out of date. Please install latest version";
+"Err_VK" = "Please check your Internet connection";
